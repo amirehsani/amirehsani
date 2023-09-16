@@ -1,5 +1,5 @@
 # 💫 About Me:
-Back-End Developer<br>Software Engineering student<br>Based in Tehran
+Software Engineer / Network Administrator<br>B.Sc. in SE<br>Based in Tehran
 
 
 ## 🌐 Socials:
