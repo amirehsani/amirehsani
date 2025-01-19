@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer / Network Administrator<br>B.Sc. in SE<br>Based in Tehran
+Network Administrator<br>B.Sc. in SE<br>Based in Tehran
 
 
 ## 🌐 Socials:
